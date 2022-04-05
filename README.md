@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pixel Playz</h1>
 <h3 align="center">A passionate Youtuber and a Developer.</h3>
 
-- 🔭 I’m currently working at [Lazy Carrot Studios](https://lazymc.ga)
+- 🔭 I’m currently working at [Lazy Carrot Network](https://lazymc.ga)
 
 - 🌱 I’m currently learning **Java and Python**
 
